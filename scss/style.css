@@ -23,4 +23,19 @@ a {
 li {
   list-style: none;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 1250px;
+  margin: 0 auto;
+}
+
+.header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 /*# sourceMappingURL=style.css.map */
