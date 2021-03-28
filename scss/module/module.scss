@@ -1,0 +1,40 @@
+
+
+.Header-Nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+    background-color: rgb(39, 35, 35);
+    color: wheat;
+}
+.Header-Nav-List{
+    width: 100%;
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+    
+}
+
+.Section{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #edadad;
+    height: 511px;
+}
+
+.Section-Text{
+    width: 500px;
+    height: 300px;
+    color: white;
+    margin-top: 10em;
+    margin-left: 11em;
+    z-index: 100;
+}
+
+.Figure{
+    width: 100%;
+    margin: 0;
+}
+
