@@ -85,4 +85,16 @@ img {
   width: 100%;
   margin: 0;
 }
+
+.Header-Title {
+  font-family: 'Caveat', cursive;
+}
+
+.Section-Title {
+  font-family: 'Oswald', sans-serif;
+}
+
+.Header-Nav-List {
+  font-family: 'Oswald', sans-serif;
+}
 /*# sourceMappingURL=style.css.map */
